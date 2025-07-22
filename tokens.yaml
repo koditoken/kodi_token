@@ -1,7 +1,7 @@
 mainnet:
   coin:
-    symbol: KDA
-    name: KDA
+    symbol: KODI
+    name: KODI
     description: Native token of Kadena
     img: img/kda.svg
     color: "#4a9079"
@@ -11,7 +11,7 @@ mainnet:
       - type: website
         url: https://www.kadena.io/
       - type: twitter
-        url: https://twitter.com/kadena_io
+        url: https://x.com/koditoken
       - type: discord
         url: https://discord.com/invite/kadena
       - type: github
@@ -28,7 +28,7 @@ mainnet:
       - type: website
         url: https://www.arkade.fun/
       - type: twitter
-        url: https://twitter.com/ArkadeFun
+        url: https://x.com/koditoken
 
   free.maga:
     symbol: MAGA
@@ -39,7 +39,7 @@ mainnet:
     precision: 12
     socials:
       - type: twitter
-        url: https://x.com/MAGA_KDA
+        url: https://x.com/koditoken
 
   free.crankk01:
     symbol: CRKK
@@ -66,7 +66,7 @@ mainnet:
       - type: website
         url: https://cyberfly.io
       - type: twitter
-        url: https://x.com/cyberfly_io
+        url: https://x.com/koditoken
       - type: telegram
         url: https://t.me/cyberflyio
 
@@ -93,7 +93,7 @@ mainnet:
       - type: website
         url: https://kishuken.me/
       - type: twitter
-        url: https://x.com/kishu_ken_kda
+        url: https://x.com/koditoken
       - type: telegram
         url: https://t.me/kishukens
 
@@ -112,7 +112,7 @@ mainnet:
       - type: github
         url: https://github.com/eckoDAO-org
       - type: twitter
-        url: https://x.com/eckoDAO
+        url: https://x.com/koditoken
       - type: discord
         url: https://discord.gg/eckodao
 
@@ -127,7 +127,7 @@ mainnet:
       - type: website
         url: https://ktoshi.com/
       - type: twitter
-        url: https://x.com/ktoshis
+        url: https://x.com/koditoken
 
   n_b742b4e9c600892af545afb408326e82a6c0c6ed.zUSD:
     symbol: zUSD
@@ -153,7 +153,7 @@ mainnet:
       - type: website
         url: https://www.heronheroes.com
       - type: twitter
-        url: https://x.com/HeronHeroesKDA
+        url: https://x.com/koditoken
 
   n_582fed11af00dc626812cd7890bb88e72067f28c.bro:
     symbol: BRO
@@ -168,7 +168,7 @@ mainnet:
         - type: website
           url: https://bro.pink/
         - type: twitter
-          url: https://x.com/thebrothersdao
+          url: https://x.com/koditoken
 
   runonflux.flux:
     symbol: FLUX
@@ -209,7 +209,7 @@ mainnet:
       - type: website
         url: https://hypercent.io/
       - type: twitter
-        url: https://twitter.com/hypercentpad
+        url: https://x.com/koditoken
       - type: discord
         url: https://discord.gg/dxVvdNhqaE
       - type: telegram
@@ -239,7 +239,7 @@ mainnet:
       - type: website
         url: https://www.kdlaunch.com/
       - type: twitter
-        url: https://twitter.com/KdLaunch
+        url: https://x.com/koditoken
       - type: telegram
         url: https://t.me/KDLaunchOfficial
       - type: discord
@@ -257,7 +257,7 @@ mainnet:
       - type: website
         url: https://www.kdswap.exchange/
       - type: twitter
-        url: https://twitter.com/KDSwap
+        url: https://x.com/koditoken
       - type: telegram
         url: https://t.me/KDSwapOfficial
       - type: discord
@@ -265,7 +265,7 @@ mainnet:
 
   n_e98a056e3e14203e6ec18fada427334b21b667d8.cKDA:
     symbol: cKDA
-    name: Chips KDA
+    name: Chips KODI
     description: Tokenized Kadena hashrate, used for earning KDA on https://chips.finance
     img: img/ckda.svg
     color: "#218dc5"
@@ -276,7 +276,7 @@ mainnet:
       - type: discord
         url: https://discord.gg/CKss7eGW36
       - type: twitter
-        url: https://x.com/chips_finance
+        url: https://x.com/koditoken
       - type: telegram
         url: https://t.me/CHIPSFINANCE
 
@@ -293,7 +293,7 @@ mainnet:
       - type: discord
         url: https://discord.gg/CKss7eGW36
       - type: twitter
-        url: https://x.com/chips_finance
+        url: https://x.com/koditoken
       - type: telegram
         url: https://t.me/CHIPSFINANCE
 
@@ -310,7 +310,7 @@ mainnet:
       - type: discord
         url: https://discord.gg/CKss7eGW36
       - type: twitter
-        url: https://x.com/chips_finance
+        url: https://x.com/koditoken
       - type: telegram
         url: https://t.me/CHIPSFINANCE
 
@@ -327,7 +327,7 @@ mainnet:
       - type: discord
         url: https://discord.gg/CKss7eGW36
       - type: twitter
-        url: https://x.com/chips_finance
+        url: https://x.com/koditoken
       - type: telegram
         url: https://t.me/CHIPSFINANCE
 
@@ -358,7 +358,7 @@ mainnet:
       - type: website
         url: guardiansofkadena.com
       - type: twitter
-        url: https://x.com/GuardiansofKDA
+        url: https://x.com/koditoken
 
   n_95d7fe012aa7e05c187b3fc8c605ff3b1a2c521d.MesutÖzilDönerKebabMerkel42Inu:
     symbol: KEBAB
@@ -406,7 +406,7 @@ mainnet:
       - type: website
         url: https://trillioncapital.ca
       - type: twitter
-        url: https://twitter.com/TRILLIONCAP
+        url: https://x.com/koditoken
 
   n_518dfea5f0d2abe95cbcd8956eb97f3238e274a9.AZUKI:
     symbol: AZUKI
@@ -421,7 +421,7 @@ mainnet:
       - type: website
         url: https://www.azukionkadena.fun
       - type: twitter
-        url: https://x.com/AzukiKDA
+        url: https://x.com/koditoken
       - type: telegram
         url: https://t.me/AzukiKDA
 
@@ -438,7 +438,7 @@ mainnet:
       - type: website
         url: https://www.kdateckel.fun
       - type: twitter
-        url: https://x.com/kdateckel
+        url: https://x.com/koditoken
       - type: telegram
         url: https://t.me/kdateckel
 
@@ -468,8 +468,8 @@ mainnet:
 
 testnet:
   coin:
-    symbol: KDA
-    name: KDA
+    symbol: KODI
+    name: KODI
     description: Native token of Kadena
     img: img/kda.svg
     totalSupply: 1000000000
@@ -477,7 +477,7 @@ testnet:
       - type: website
         url: https://www.kadena.io/
       - type: twitter
-        url: https://twitter.com/kadena_io
+        url: https://x.com/koditoken
       - type: discord
         url: https://discord.com/invite/kadena
       - type: github
