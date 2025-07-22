@@ -58,7 +58,7 @@ mainnet:
     img: img/cfly.svg
     color: "#1f1fc2"
     totalSupply: 90000000
-    circulatingSupply: 8580000
+    circulatingSupply: 9,000,000,000,000
     precision: 8
     socials:
       - type: website
