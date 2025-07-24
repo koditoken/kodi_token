@@ -6,6 +6,7 @@ mainnet:
     img: img/kodi.png
     color: "#4a9079"
     totalSupply: 9,000,000,000,000
+    maxSupply: 9,000,000,000,000
     precision: 12
     socials:
       - type: website
